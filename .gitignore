@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+outputs/
+attempts/
+manifest.json
+__pycache__/
+*.pyc
